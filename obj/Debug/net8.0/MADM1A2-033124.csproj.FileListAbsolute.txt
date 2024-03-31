@@ -1,0 +1,14 @@
+C:\Users\elija\Desktop\MADM1A2-033124\bin\Debug\net8.0\MADM1A2-033124.exe
+C:\Users\elija\Desktop\MADM1A2-033124\bin\Debug\net8.0\MADM1A2-033124.deps.json
+C:\Users\elija\Desktop\MADM1A2-033124\bin\Debug\net8.0\MADM1A2-033124.runtimeconfig.json
+C:\Users\elija\Desktop\MADM1A2-033124\bin\Debug\net8.0\MADM1A2-033124.dll
+C:\Users\elija\Desktop\MADM1A2-033124\bin\Debug\net8.0\MADM1A2-033124.pdb
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.AssemblyInfoInputs.cache
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.AssemblyInfo.cs
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.csproj.CoreCompileInputs.cache
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.dll
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\refint\MADM1A2-033124.dll
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.pdb
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.genruntimeconfig.cache
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\ref\MADM1A2-033124.dll
