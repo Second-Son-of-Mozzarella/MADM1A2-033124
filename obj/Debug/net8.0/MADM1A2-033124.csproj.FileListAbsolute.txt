@@ -12,3 +12,4 @@ C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\refint\MADM1A2-033124.dll
 C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.pdb
 C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.genruntimeconfig.cache
 C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\ref\MADM1A2-033124.dll
+C:\Users\elija\Desktop\MADM1A2-033124\obj\Debug\net8.0\MADM1A2-033124.sourcelink.json
